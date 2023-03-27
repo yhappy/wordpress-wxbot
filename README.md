@@ -1,6 +1,6 @@
----
-highlight: a11y-dark
----
+本文掘金地址：https://juejin.cn/post/7215100409169838140
+
+
 网上的实现 Wordpress 评论通知的方法一般有两种：
 
 一种是通过 server 酱，网上介绍的很多，[例如： Wordpress实现评论微信通知！](https://juejin.cn/post/6987325221258657828)
